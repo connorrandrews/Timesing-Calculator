@@ -1,0 +1,5 @@
+print('The first number to times?')
+timesby = input()
+print('The second number to times by?')
+number = input()
+print('The Answer is',int(timesby)*int(number))
